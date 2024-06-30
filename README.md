@@ -45,7 +45,6 @@ NB: Use KRA, NHIF, and NSSF values provided in the link below.
 
 - www.kra.go.ke/en/individual/calculate-tax/calculating-tax/payeLinks to an external site.
 
-# installatio:
 
 
 
