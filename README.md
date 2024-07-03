@@ -48,6 +48,45 @@ NB: Use KRA, NHIF, and NSSF values provided in the link below.
 
 ## Installation
 
+you can access  my work through the following steps:
+ ### Alternative One
+
+1. Open terminal or CLI on your computer
+
+2. git clone the link below:
+
+     __git clone__ [{https://github.com/keelann95/code-challenge-1}]
+
+3. Change directory to the repository folder
+
+                cd code-challenge-1
 
 
+4. Open it in your Code Editor of choice. If you use VS Code, run the command:
+                code .
+
+### Alternative Two
+a. On the top right corner of this page there is a button labelled __Fork__.
+
+b. Click on that button to create a copy of the repository to your own account.
+
+c. Follow the process described in __Alternative One__ above.
+
+d. Remember to replace your username when cloning:
+    __git clone__     [{https://github.com/keelann95/code-challenge-1}]
+
+
+
+ ## System Requirements
+1. Node 18+
+2. A browser capable of running JavaScript (Chrome, Firefox, Safari, or Edge)
+3. Operating System (Windows 10+, MacOS, Linux, etc.)
+4. A text editor capable of running JavaScript (Visual Studio Code, Vim, Nano, Emacs, Atom, Sublime Text, etc.)
+5. RAM >= 4GB
+6. Disk space >= 1GB
+
+## Authors
  
+ This challenge was worked by:
+
+ @keelann95
